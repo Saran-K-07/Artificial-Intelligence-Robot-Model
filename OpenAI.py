@@ -21,8 +21,7 @@ engine.setProperty('voice', voices[0].id)
 
 #------------------------------------- ChatGPT Api Key ---------------------------------------#
 
-openai.api_key = "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"
-
+openai.api_key = ""
 #------------------------------------- Tkinter Setup -----------------------------------------#
 
 class WrappingLabel(tk.Label):
